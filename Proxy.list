@@ -16,12 +16,6 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-#DZ客制化-------------------------------------------------------开始
-#叠纸游戏-台服
-DOMAIN-SUFFIX,qookkagames.com
-#灵梦御所
-DOMAIN-SUFFIX,blog.reimu.net
-#DZ客制化-------------------------------------------------------结束
 
 
 # 其他网站
