@@ -1,1 +1,7 @@
 #自定义代理
+
+#叠纸游戏-台服
+DOMAIN-SUFFIX,qookkagames.com
+
+#灵梦御所
+DOMAIN-SUFFIX,reimu.net
